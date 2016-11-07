@@ -1,0 +1,29 @@
+# Dependencies
+highlighter:       rouge
+
+redcarpet:
+  extensions:
+      - lax_spacing
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Order of the Wag Dog
+tagline:          'Wag Dog'
+description:      'Order of the Wag Dog'
+url:              http://www.orderwagdog.com/
+
+author:
+  name:           'webmaster'
+  url:            http://www.orderwagdog.com/
+
+paginate:         5
+
+exclude:          [ '_drafts/NOTES' ]
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/toxicdoseld50/orderwagdog
