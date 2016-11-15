@@ -9,9 +9,9 @@ redcarpet:
 permalink:        pretty
 
 # Setup
-title:            Order of the Wag Dog
-tagline:          'Wag Dog'
-description:      'Order of the Wag Dog'
+title:            Order of the Wagdog
+tagline:          'Wagdog'
+description:      'Order of the Wagdog'
 url:              http://www.orderwagdog.com/
 
 author:
